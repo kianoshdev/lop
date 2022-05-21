@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\lop\lop\bin\Debug\netcoreapp3.1\lop.exe
+C:\Users\pc\source\repos\lop\lop\bin\Debug\netcoreapp3.1\lop.deps.json
+C:\Users\pc\source\repos\lop\lop\bin\Debug\netcoreapp3.1\lop.runtimeconfig.json
+C:\Users\pc\source\repos\lop\lop\bin\Debug\netcoreapp3.1\lop.runtimeconfig.dev.json
+C:\Users\pc\source\repos\lop\lop\bin\Debug\netcoreapp3.1\lop.dll
+C:\Users\pc\source\repos\lop\lop\bin\Debug\netcoreapp3.1\lop.pdb
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.AssemblyInfo.cs
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.dll
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.pdb
+C:\Users\pc\source\repos\lop\lop\obj\Debug\netcoreapp3.1\lop.genruntimeconfig.cache
